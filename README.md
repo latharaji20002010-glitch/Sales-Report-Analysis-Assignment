@@ -1,4 +1,5 @@
 # Sales-Report-Analysis-Assignment
+
 Performing basic data exploration in Excel transforms a raw product dataset into actionable insights
 I performed basic data exploration and analysis in Microsoft Excel.
 The dataset contains information about different products, including their Product IDs, Product Name, Brand Name, Quantity, Categories, and Prices.
