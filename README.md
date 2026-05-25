@@ -1,7 +1,14 @@
 # Sales-Report-Analysis-Assignment
 
+# Description
 Performing basic data exploration in Excel transforms a raw product dataset into actionable insights
 I performed basic data exploration and analysis in Microsoft Excel.
 The dataset contains information about different products, including their Product IDs, Product Name, Brand Name, Quantity, Categories, and Prices.
 I use Excel formulas and functions to perform calculations, categorize data, and extract useful information from text fields. The goal is to build foundational skills in data exploration, logical functions, conditional aggregation, and text manipulation using Excel.
 The focus of this assignment is on data summarization, conditional logic, and text extraction techniques, which are essential for preparing data for further analysis.
+
+# What was done in this assignment
+Data Preparation and Cleaning:
+1. Duplicate Product Id's, which contains same selling data, were removed.
+2. Clean, Trim and proper the text columns.
+3. Applied formulas for calculate the sum of the Total selling price, Total Product count, Average, Minimum and Maximum Prices among the Products. Logical If functions and Conditional If functions were performed in this excel sheet. And also I did Text formating functions too.   
